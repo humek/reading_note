@@ -1,10 +1,14 @@
 TEST
 
 
-<<<<<<< HEAD
-test2
-=======
 
-test3333
->>>>>>> remotes/origin/master
-´ó¶àÊý
+test2
+
+111111111111
+
+<<<<<<< HEAD
+
+1213213
+=======
+11111
+>>>>>>> remotes/origin/HEAD
